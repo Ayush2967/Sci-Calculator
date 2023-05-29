@@ -13,8 +13,9 @@ Hi! I have made Scientific Calculator which is very helpful some times. If you w
 7. Select the folder where you extracted the extension files.
 8. The Extract Text from Image extension will now be installed and ready to use.
 
-# Preview 
+## Preview 
 <img src="Screenshot 2023-05-29 101716.png">
+ <hr>
 
  <p align="center" >
  Made with ❤️ by Ayush Jain</p>
