@@ -20,7 +20,7 @@ The project is for the educational purpose that if u want your extension to show
 
 - Clone this project:
 ```
-git clone https://github.com/HamzaZaidiX/Scientific-Calculator-Chrome-Extension
+
 ```
 - Go to Chrome Extension Webstore
 - Go to Extention manager `chrome://extensions/` in chrome
@@ -33,6 +33,4 @@ git clone https://github.com/HamzaZaidiX/Scientific-Calculator-Chrome-Extension
 MIT LICENCE
 Read `Licence` document for more details
 
-# Bye! 👋
 
-HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
