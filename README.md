@@ -10,19 +10,6 @@ Hi! I have made Scientific Calculator which is very helpful some times. If you w
 
 # Preview
 
-<img src="ayush.png">
+<img src="Screenshot 2023-05-29 101716.png">
 
 # Installation
-
-- Clone this project:
-```
-git@github.com:Ayush2967/Sci-Calculator.git
-```
-- Go to Chrome Extension Webstore
-- Go to Extention manager `chrome://extensions/` in chrome
-- Load the folder into the chrome
-
--  **BOOM! YOU ARE NOW LIVE**
-
-
-
