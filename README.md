@@ -8,15 +8,15 @@ Hi! I have made Scientific Calculator which is very helpful some times. If you w
 
 
 
-# ScreenShot
+# Preview
 
-<img src="Screenshot.png">
+<img src="ayush.png">
 
 # Installation
 
 - Clone this project:
 ```
-
+git@github.com:Ayush2967/Sci-Calculator.git
 ```
 - Go to Chrome Extension Webstore
 - Go to Extention manager `chrome://extensions/` in chrome
