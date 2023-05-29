@@ -4,13 +4,9 @@
 
 Hi! I have made Scientific Calculator which is very helpful some times. If you want to calculate on chrome than this calculator in your extension is useful you can use it anytime!
 
-# Description
 
-The project is for the educational purpose that if u want your extension to show up on chrome tool bar than u can make it too!
 
-# How to create google chrome extension
 
-**Blog : [`Read More =>`](https://levelup.gitconnected.com/make-your-first-chrome-extension-with-javascript-7aa383db2b03)**
 
 # ScreenShot
 
@@ -28,9 +24,5 @@ The project is for the educational purpose that if u want your extension to show
 
 -  **BOOM! YOU ARE NOW LIVE**
 
-# Licence
-
-MIT LICENCE
-Read `Licence` document for more details
 
 
